@@ -1,0 +1,10 @@
+{
+    "name": "libnspire-dlang",
+    "description": "DLang bindings to libnspire",
+    "copyright": "Copyright © 2020, Ernesto Castellotti",
+	"authors": [
+		"Ernesto Castellotti"
+	],
+	"license": "LGPL-3.0",
+	"libs": ["nspire"]
+}
